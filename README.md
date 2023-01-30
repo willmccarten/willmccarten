@@ -3,7 +3,7 @@
  I’m interested in just about anything technology related. I would say my main interest lies with web and mobile apps, games, and really any program that 
  a user will interact with. I enjoy both frontend and backend. 
     
- I’m currently learning how to build my own programming language and understanding how languages work fundamentally.
+ I’m currently building a personal website.
 
  Anyone can reach out to me on LinkedIn @: https://www.linkedin.com/in/william-mccarten/
  
