@@ -1,4 +1,4 @@
-# Hello! My name is **Will McCarten**! 
+# Hello! I am **Will McCarten**! 
  
  I am a third year computer science student at the University of Florida, with an _expected graduation of May of 2024_. I am currently in search of an **software engineering internship for the summer of 2023**.
  
