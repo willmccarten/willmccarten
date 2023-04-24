@@ -1,6 +1,6 @@
 # Hello! I am **Will McCarten**! 
  
- I am a third year computer science student at the University of Florida, with an _expected graduation of May of 2024_. I am currently in search of an **software engineering internship for the summer of 2023**.
+ I am a third year computer science student at the University of Florida, with an _expected graduation of May of 2024_. I am currently in search of an **software engineering internship for the summer of 2024**.
  
  I’m interested in just about anything technology related. I feel that I am really moldable, as I have not had too much experience yet and am open to any type of development or area within Computer Science. I am excited to learn as much as I can. If I had to chose, right now I would say my main interest lies with web and mobile apps, games, and really any program that 
  a user will interact with. I enjoy both frontend and backend. 
