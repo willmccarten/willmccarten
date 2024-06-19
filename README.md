@@ -18,6 +18,7 @@ Right now, I am actively studying web developement, focusing on **JavaScript**, 
 ## Anyone can reach out to me on the following:
  - LinkedIn @: https://www.linkedin.com/in/william-mccarten/
  - Gmail @: williampmccarten@gmail.com
+ - Personal Website: willmccarten.com
  
  
  ### Thank you for checking my profile out!
