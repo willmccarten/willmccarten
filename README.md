@@ -1,6 +1,6 @@
 # Hello! I am **Will McCarten**! 
  
- I am a senior computer science student at the University of Florida,  _graudating on December 14th, 2024_. I am an incoming **product manager** at _American Express_.
+ I am a senior computer science student at the University of Florida,  _graudating on December 14th, 2024_. I am an incoming **product manager** at _American Express_ in New York City!
 
 My interests are spread around in the technology space. Within Computer Science my current interests are within Human-Computer Interaction and User Experience Design. Despite going into product management out of college, I intend to continue working on software projects and hopefully post them here on github. I am hoping to enroll in Georgia Tech's OMCS program with a specialization of HCI.  
  
